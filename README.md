@@ -1,7 +1,5 @@
-# Networking
-A comprehensive repository covering computer networking concepts, practical labs, and projects including OSI model, TCP/IP, subnetting, routing, and network analysis.
+#IP Addressing & Subnetting
 
-IP Addressing & Subnetting
 What is an IP Address?
 An IP address is like a postal address for your computer on a network. It helps devices find and communicate with each other.
 
