@@ -334,5 +334,5 @@ Entire message sent and stored at each node (Store-and-Forward).
 * Less reliable
 
 
-Just tell me 👍.
+
 
