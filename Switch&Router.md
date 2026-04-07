@@ -1,8 +1,8 @@
-# 🌐 Router and Switch in Computer Networking
+# Router and Switch in Computer Networking
 
 ---
 
-# 📡 Router
+# Router
 
 ![Image](https://images.ctfassets.net/aoyx73g9h2pg/1Vfu5lV8rlQUkw2sYQPS7c/69d1dc12a8ce350c6f0b785af3305087/What_is_a_Router-Diagram.jpg)
 
@@ -10,11 +10,11 @@
 
 ![Image](https://creately.com/static/assets/guides/home-network-diagram/basic-network-diagram-example-with-modem-and-router-VSfKzRefoUg.svg)
 
-## ✅ What is a Router?
+## What is a Router?
 
 A **Router** is a networking device used to **connect multiple networks** and forward data packets between them.
 
-👉 Simply:
+Simply:
 
 > Router connects **Network → Network**
 
@@ -25,7 +25,7 @@ Example:
 
 ---
 
-## ⚙️ Working Principle
+## Working Principle
 
 1. Device sends data packet.
 2. Router checks **Destination IP Address**.
@@ -34,13 +34,13 @@ Example:
 
 ---
 
-## 🧠 OSI Layer
+## OSI Layer
 
 * Works at **Layer 3 — Network Layer**
 
 ---
 
-## 🔑 Main Functions
+## Main Functions
 
 * Connects LAN to Internet
 * Routes packets between networks
@@ -50,7 +50,7 @@ Example:
 
 ---
 
-## 📦 Components Inside Router
+## Components Inside Router
 
 * Routing Table
 * CPU & Memory
@@ -60,7 +60,7 @@ Example:
 
 ---
 
-## 👍 Advantages
+## Advantages
 
 * Connects different networks
 * Provides Internet access
@@ -69,7 +69,7 @@ Example:
 
 ---
 
-## 👎 Disadvantages
+## Disadvantages
 
 * Higher cost than switch
 * Configuration required
@@ -77,7 +77,7 @@ Example:
 
 ---
 
-## 🏠 Real-Life Example
+## Real-Life Example
 
 Home Wi-Fi Router connecting:
 
@@ -90,7 +90,7 @@ Home Wi-Fi Router connecting:
 
 ---
 
-# 🔀 Switch
+# Switch
 
 ![Image](https://www.conceptdraw.com/How-To-Guide/picture/Computer-and-networks-10Base-T-star-network-topology.png)
 
@@ -98,11 +98,11 @@ Home Wi-Fi Router connecting:
 
 ![Image](https://www.mydraw.com/NIMG.axd?i=Diagrams%2FNetwork%2FLogicalNetworkDiagram.png)
 
-## ✅ What is a Switch?
+## What is a Switch?
 
 A **Switch** is a networking device used to connect multiple devices **within the same network (LAN)**.
 
-👉 Simply:
+Simply:
 
 > Switch connects **Device → Device**
 
@@ -113,7 +113,7 @@ Example:
 
 ---
 
-## ⚙️ Working Principle
+## Working Principle
 
 1. Device sends data frame.
 2. Switch checks **MAC Address**.
@@ -122,7 +122,7 @@ Example:
 
 ---
 
-## 🧠 OSI Layer
+## OSI Layer
 
 * Works at **Layer 2 — Data Link Layer**
 
@@ -130,7 +130,7 @@ Example:
 
 ---
 
-## 🔑 Main Functions
+## Main Functions
 
 * Connects computers in LAN
 * Controls traffic flow
@@ -139,7 +139,7 @@ Example:
 
 ---
 
-## 👍 Advantages
+## Advantages
 
 * High speed communication
 * Efficient data transfer
@@ -148,14 +148,14 @@ Example:
 
 ---
 
-## 👎 Disadvantages
+## Disadvantages
 
 * Cannot connect different networks
 * Needs router for internet access
 
 ---
 
-## 🏫 Real-Life Example
+## Real-Life Example
 
 College computer lab where all PCs connect using one switch.
 
@@ -163,7 +163,7 @@ College computer lab where all PCs connect using one switch.
 
 ---
 
-# ⚔️ Router vs Switch
+# Router vs Switch
 
 | Feature      | Router             | Switch            |
 | ------------ | ------------------ | ----------------- |
@@ -176,7 +176,7 @@ College computer lab where all PCs connect using one switch.
 
 ---
 
-# 🧩 How Router and Switch Work Together
+# How Router and Switch Work Together
 
 ![Image](https://www.conceptdraw.com/How-To-Guide/picture/Network-diagram-System-design.png)
 
@@ -201,17 +201,17 @@ Computers / Printers / Devices
 
 ---
 
-# 🎯 Simple Analogy
+# Simple Analogy
 
-* **Router = Post Office** 📮
+* **Router = Post Office** 
   → Sends parcel to another city (network)
 
-* **Switch = Office Manager** 🏢
+* **Switch = Office Manager** 
   → Delivers parcel to correct employee (device)
 
 ---
 
-# ✅ Conclusion
+# Conclusion
 
 * Router manages **communication between networks**.
 * Switch manages **communication inside a network**.
