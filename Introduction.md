@@ -1,6 +1,4 @@
-Here is your **Introduction to Networking** notes converted into **clean TEXT format** (easy for study & writing 👇)
 
----
 
 # **Introduction to Networking**
 
